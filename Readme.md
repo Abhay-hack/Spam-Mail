@@ -22,7 +22,7 @@ This project is a web application that uses a machine learning model to predict 
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone [<repository_url>](https://github.com/Abhay-hack/Spam-Mail.git)
+    git clone https://github.com/Abhay-hack/Spam-Mail.git
     cd Spam_Mail
     ```
 
