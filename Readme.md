@@ -3,7 +3,7 @@
 This project is a web application that uses a machine learning model to predict whether an SMS message is spam or ham (not spam). The application is built using Python, Flask (a micro web framework), and scikit-learn for the machine learning model.
 
 ## Project Structure
-    ```bash
+```bash
     Spam_Mail/
     ├── app.py             # Main Flask application file
     ├── templates/         # Directory for HTML templates
@@ -15,15 +15,15 @@ This project is a web application that uses a machine learning model to predict 
     ├── tfidf_vectorizer.joblib    # Saved TF-IDF vectorizer
     ├── spam_classifier.joblib     # Saved trained classification model
     ├── spam.csv             # The original dataset (for training)
-    └── README.md            # This file
-    ```
+    └── README.md            # This file    
+```
 
 ## Setup and Installation
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <repository_url>
-    cd Spam_Mail_WebApp
+    git clone [<repository_url>](https://github.com/Abhay-hack/Spam-Mail.git)
+    cd Spam_Mail
     ```
 
 2.  **Install required Python libraries:**
