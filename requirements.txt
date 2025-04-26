@@ -1,0 +1,9 @@
+pandas
+nltk
+scikit-learn
+imblearn
+matplotlib
+seaborn
+joblib
+flask
+gunicorn  # Add Gunicorn
