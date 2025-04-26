@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    margin: 2em;
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+h1 {
+    color: #007bff; /* Blue heading color */
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2em;
+}
+label {
+    margin-bottom: 0.5em;
+    color: #555;
+    font-weight: 500;
+}
+textarea {
+    padding: 15px;
+    margin-bottom: 1.5em;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 1em;
+    line-height: 1.5;
+    resize: vertical;
+}
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.1em;
+    font-weight: 500;
+    transition: background-color 0.2s ease-in-out;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    background-color: #e9ecef; /* Light gray result background */
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 1em;
+    font-size: 1.1em;
+    border: 1px solid #ddd;
+}
+
+.spam {
+    color: #dc3545; /* Red color for spam */
+    font-weight: bold;
+}
+
+.ham {
+    color: #198754; /* Green color for ham */
+    font-weight: bold;
+}
+
+.error {
+    color: #ffc107; /* Yellow color for error */
+    font-weight: bold;
+}
