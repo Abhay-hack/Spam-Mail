@@ -87,10 +87,6 @@ The spam detection model uses the following techniques:
 * **Error Handling:** Implement more robust error handling for invalid inputs or model loading issues.
 * **Deployment:** Deploy the application to a production server for wider accessibility.
 
-## License
-
-[Your License (e.g., MIT License)](LICENSE) *(Optional: Add a LICENSE file to your repository if you want to specify the license under which your project is distributed.)*
-
 ## Author
 
 Abhay Gupta
